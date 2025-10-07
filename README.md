@@ -58,6 +58,3 @@ Pressione **ESC** a qualquer momento para encerrar o hook e finalizar o programa
 Este código é apenas para **fins educacionais**.  
 Evite usá-lo em sistemas de produção ou para interceptar teclas de terceiros.
 
----
-
-✨ *“Nem toda loucura é perigosa… algumas apenas invertem letras.”* 😌
